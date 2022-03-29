@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dRw2mMTxRLaL19ML2MTog2caZdRhMmhzT8Bn6regNPLzpucTcgBpCKJ/fuMPTtDetsYLIlsj9D/dIZPOardZsw==",
+  "dgSpecHash": "4/mjK18+cCoAsIYumBz+JK0Klb7Hfx0mcxvwoE8cNrW3EYOT1fMBypOqhlJS/xVq2FlgAN0yr9oWk3nucMPyug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserverTutorial\\aspnetserver\\aspnetserver.csproj",
+  "projectFilePath": "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserver\\aspnetserver\\aspnetserver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Olaf\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Olaf\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",

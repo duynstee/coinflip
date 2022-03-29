@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserverTutorial\\aspnetserver\\aspnetserver.csproj": {}
+    "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserver\\aspnetserver\\aspnetserver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserverTutorial\\aspnetserver\\aspnetserver.csproj": {
+    "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserver\\aspnetserver\\aspnetserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserverTutorial\\aspnetserver\\aspnetserver.csproj",
+        "projectUniqueName": "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserver\\aspnetserver\\aspnetserver.csproj",
         "projectName": "aspnetserver",
-        "projectPath": "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserverTutorial\\aspnetserver\\aspnetserver.csproj",
+        "projectPath": "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserver\\aspnetserver\\aspnetserver.csproj",
         "packagesPath": "C:\\Users\\Olaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserverTutorial\\aspnetserver\\obj\\",
+        "outputPath": "C:\\Users\\Olaf\\Documents\\GitHub\\coinflip\\backend\\aspnetserver\\aspnetserver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
