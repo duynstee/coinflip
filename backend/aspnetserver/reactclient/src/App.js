@@ -25,17 +25,17 @@ export default function App() {
       <div className="row min-vh-100">
         <div className="col d-flex flex-column justify-content-center align-items-center">
           <div>
-            <h1>ASP.NET Core Backend</h1>
+            <h1>Coinflip</h1>
 
             <div className="mt-5">
               <button onClick={getPosts} className="btn btn-dark btn-lg w-100">
-                Get posts from server
+                Get lobby's from server
               </button>
               <button
                 onClick={() => {}}
                 className="btn btn-secondary btn-lg w-100 mt-4"
               >
-                Create new post
+                Create new lobby
               </button>
             </div>
           </div>
@@ -52,10 +52,10 @@ export default function App() {
         <table className="table table-bordered border-dark">
           <thead>
             <tr>
-              <th scope="col">PostId (PK)</th>
-              <th scope="col">Title</th>
-              <th scope="col">Content</th>
-              <th scope="col">CRUD Operations</th>
+              <th scope="col">lobbyId (PK)</th>
+              <th scope="col">Name</th>
+              <th scope="col">Bet</th>
+              <th scope="col">change/delete</th>
             </tr>
           </thead>
           <tbody>
@@ -66,7 +66,7 @@ export default function App() {
                 <td>{post.content}</td>
                 <td>
                   <button className="btn btn-dark btn-lg mx-3 my-3">
-                    Update
+                    Change
                   </button>
                   <button className="btn btn-secondary btn-lg">Delete</button>
                 </td>
@@ -79,7 +79,7 @@ export default function App() {
           onClick={() => setPost([])}
           className="btn btn-dark btn-lg w-100"
         >
-          Empty React post array
+          Empty React Lobby array
         </button>
       </div>
     );
